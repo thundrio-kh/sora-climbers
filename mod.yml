@@ -1,0 +1,4533 @@
+assets:
+- method: binarc
+  name: ard/al00.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/al00/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/al00/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/al00/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_52
+    source:
+    - name: spawns/al00/e_52.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_53
+    source:
+    - name: spawns/al00/e_53.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_54
+    source:
+    - name: spawns/al00/e_54.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/al00/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/al00/m_01.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: s_99
+    source:
+    - name: spawns/al00/s_99.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/al01.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/al01/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/al02.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/al02/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/al02/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/al02/m_01.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_20
+    source:
+    - name: spawns/al02/r_20.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/al03.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/al03/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/al03/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/al03/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/al04.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/al04/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/al05.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/al05/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/al06.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/al06/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/al06/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/al06/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/al06/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/al07.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/al07/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/al07/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/al09.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/al09/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/al09/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/al10.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/al10/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/al10/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/al11.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/al11/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/al11/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/al12.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/al12/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/al13.ard
+  source:
+  - method: spawnpoint
+    name: b_20
+    source:
+    - name: spawns/al13/b_20.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/al13/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/al13/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/al13/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/al13/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/al15.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/al15/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/al15/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/al15/m_01.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_20
+    source:
+    - name: spawns/al15/r_20.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_29
+    source:
+    - name: spawns/al15/r_29.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb00.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/bb00/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/bb00/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/bb00/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_52
+    source:
+    - name: spawns/bb00/e_52.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_53
+    source:
+    - name: spawns/bb00/e_53.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/bb00/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb01.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/bb01/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/bb01/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/bb01/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb02.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/bb02/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/bb02/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_52
+    source:
+    - name: spawns/bb02/e_52.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/bb02/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb03.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/bb03/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/bb03/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/bb03/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb04.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/bb04/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/bb04/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/bb04/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb05.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/bb05/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: spawns/bb05/b_41.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: spawns/bb05/b_99.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/bb05/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb06.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/bb06/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb07.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/bb07/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb08.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/bb08/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/bb08/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_52
+    source:
+    - name: spawns/bb08/e_52.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/bb08/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb09.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/bb09/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/bb09/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb10.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/bb10/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/bb10/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb11.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/bb11/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: spawns/bb11/b_99.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/bb11/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/bb11/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/bb11/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb12.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/bb12/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/bb12/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/bb12/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/bb12/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb13.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/bb13/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb14.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/bb14/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb15.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/bb15/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: spawns/bb15/b_80.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/bb15/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca00.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/ca00/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/ca00/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca00/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_20
+    source:
+    - name: spawns/ca00/r_20.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca01.ard
+  source:
+  - method: spawnpoint
+    name: b_61
+    source:
+    - name: spawns/ca01/b_61.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/ca01/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/ca01/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_53
+    source:
+    - name: spawns/ca01/e_53.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca01/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/ca01/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca02.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/ca02/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/ca02/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca02/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: s_99
+    source:
+    - name: spawns/ca02/s_99.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca03.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/ca03/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_98
+    source:
+    - name: spawns/ca03/b_98.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/ca03/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/ca03/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_52
+    source:
+    - name: spawns/ca03/e_52.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_53
+    source:
+    - name: spawns/ca03/e_53.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca03/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca04.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/ca04/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca04/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/ca04/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca05.ard
+  source:
+  - method: spawnpoint
+    name: b_98
+    source:
+    - name: spawns/ca05/b_98.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/ca05/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/ca05/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca05/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca06.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/ca06/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca06/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/ca06/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca07.ard
+  source:
+  - method: spawnpoint
+    name: b_98
+    source:
+    - name: spawns/ca07/b_98.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca07/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca08.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/ca08/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca08/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca09.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/ca09/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca09/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca10.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/ca10/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca10/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca11.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/ca11/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca11/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/ca11/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca12.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca12/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca13.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca13/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca14.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/ca14/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca14/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca15.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca15/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca16.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca16/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca17.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca17/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca18.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/ca18/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca18/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca19.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca19/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca20.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca20/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca21.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca21/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca22.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca22/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca23.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca23/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca24.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca24/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca25.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/ca25/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/dc00.ard
+  source:
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: spawns/dc00/b_41.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/dc00/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_22
+    source:
+    - name: spawns/dc00/m_22.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/dc01.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/dc01/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/dc01/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_22
+    source:
+    - name: spawns/dc01/m_22.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/dc02.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/dc02/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/dc02/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_22
+    source:
+    - name: spawns/dc02/m_22.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/dc03.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/dc03/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/dc03/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/dc04.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/dc04/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/dc04/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/dc04/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/dc05.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/dc05/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/dc06.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/dc06/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/dc06/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/dc07.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/dc07/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/di00.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/di00/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/di00/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/di01.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/di01/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/di01/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/di02.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/di02/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh00.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh00/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh01.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/eh01/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh01/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/eh01/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh02.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh02/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh03.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/eh03/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh03/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh04.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/eh04/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh04/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/eh04/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh05.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh05/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh06.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/eh06/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh06/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh07.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh07/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh08.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh08/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh09.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh09/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/eh09/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh10.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/eh10/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: spawns/eh10/b_80.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/eh10/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh10/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/eh10/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh11.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/eh11/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh11/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/eh11/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh12.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh12/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh13.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/eh13/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh13/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/eh13/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh14.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/eh14/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: spawns/eh14/b_80.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/eh14/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh14/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/eh14/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh15.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/eh15/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: spawns/eh15/b_80.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/eh15/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh15/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/eh15/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh16.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/eh16/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh16/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh17.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh17/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh18.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/eh18/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh18/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/eh18/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh19.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/eh19/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: spawns/eh19/b_80.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh19/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh20.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/eh20/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: spawns/eh20/b_80.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh20/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh21.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/eh21/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: spawns/eh21/b_80.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh21/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh22.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh22/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh23.ard
+  source:
+  - method: spawnpoint
+    name: b_97
+    source:
+    - name: spawns/eh23/b_97.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: spawns/eh23/b_99.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh23/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh24.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/eh24/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: spawns/eh24/b_99.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh24/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh25.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/eh25/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: spawns/eh25/b_99.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh25/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh26.ard
+  source:
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: spawns/eh26/b_99.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh26/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh27.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh27/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh28.ard
+  source:
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: spawns/eh28/b_99.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh28/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh29.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/eh29/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/es00.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/es00/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb00.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb00/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb01.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/hb01/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/hb01/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/hb01/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb01/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb02.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb02/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb03.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/hb03/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb03/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/hb03/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb04.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/hb04/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: spawns/hb04/b_80.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb04/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb05.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/hb05/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/hb05/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_52
+    source:
+    - name: spawns/hb05/e_52.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_53
+    source:
+    - name: spawns/hb05/e_53.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_54
+    source:
+    - name: spawns/hb05/e_54.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_55
+    source:
+    - name: spawns/hb05/e_55.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb05/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/hb05/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb06.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/hb06/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/hb06/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_52
+    source:
+    - name: spawns/hb06/e_52.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_53
+    source:
+    - name: spawns/hb06/e_53.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb06/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/hb06/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb07.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb07/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb08.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/hb08/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/hb08/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb08/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb09.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/hb09/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: spawns/hb09/b_41.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_42
+    source:
+    - name: spawns/hb09/b_42.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/hb09/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/hb09/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb09/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: s_99
+    source:
+    - name: spawns/hb09/s_99.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb10.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/hb10/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/hb10/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_52
+    source:
+    - name: spawns/hb10/e_52.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_53
+    source:
+    - name: spawns/hb10/e_53.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb10/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_20
+    source:
+    - name: spawns/hb10/r_20.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb11.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb11/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb12.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb12/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb13.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/hb13/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/hb13/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/hb13/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb13/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/hb13/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb14.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb14/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb15.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb15/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb16.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/hb16/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: spawns/hb16/b_41.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_42
+    source:
+    - name: spawns/hb16/b_42.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_43
+    source:
+    - name: spawns/hb16/b_43.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_45
+    source:
+    - name: spawns/hb16/b_45.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_46
+    source:
+    - name: spawns/hb16/b_46.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_47
+    source:
+    - name: spawns/hb16/b_47.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_48
+    source:
+    - name: spawns/hb16/b_48.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb16/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb17.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/hb17/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb17/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb18.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/hb18/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb18/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb19.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/hb19/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb19/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb20.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/hb20/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb20/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb21.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/hb21/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb21/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb22.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/hb22/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb22/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb23.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb23/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb24.ard
+  source:
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: spawns/hb24/b_80.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb24/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb25.ard
+  source:
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: spawns/hb25/b_80.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb25/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb26.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/hb26/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb26/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb27.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb27/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb28.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb28/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb29.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb29/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb30.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb30/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb31.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb31/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb32.ard
+  source:
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: spawns/hb32/b_80.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_81
+    source:
+    - name: spawns/hb32/b_81.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb32/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb33.ard
+  source:
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: spawns/hb33/b_80.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_81
+    source:
+    - name: spawns/hb33/b_81.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_82
+    source:
+    - name: spawns/hb33/b_82.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_83
+    source:
+    - name: spawns/hb33/b_83.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_84
+    source:
+    - name: spawns/hb33/b_84.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_85
+    source:
+    - name: spawns/hb33/b_85.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb33/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb34.ard
+  source:
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: spawns/hb34/b_80.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_81
+    source:
+    - name: spawns/hb34/b_81.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb34/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb35.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb35/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb36.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb36/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb37.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb37/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb38.ard
+  source:
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: spawns/hb38/b_80.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_81
+    source:
+    - name: spawns/hb38/b_81.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb38/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb39.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb39/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb40.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/hb40/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he00.ard
+  source:
+  - method: spawnpoint
+    name: b_4a
+    source:
+    - name: spawns/he00/b_4a.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: spawns/he00/b_99.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/he00/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/he00/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he00/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/he00/m_01.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_20
+    source:
+    - name: spawns/he00/r_20.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he01.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/he01/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he01/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he02.ard
+  source:
+  - method: spawnpoint
+    name: b_4a
+    source:
+    - name: spawns/he02/b_4a.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he02/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_20
+    source:
+    - name: spawns/he02/r_20.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he03.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/he03/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he03/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/he03/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he04.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/he04/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he04/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he05.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/he05/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/he05/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he05/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he06.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/he06/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: spawns/he06/b_99.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/he06/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he06/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he07.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/he07/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he07/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he08.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/he08/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: spawns/he08/b_41.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he08/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he09.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/he09/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_61
+    source:
+    - name: spawns/he09/b_61.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_z1
+    source:
+    - name: spawns/he09/b_z1.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_z3
+    source:
+    - name: spawns/he09/b_z3.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_z5
+    source:
+    - name: spawns/he09/b_z5.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he09/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/he09/m_01.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_02
+    source:
+    - name: spawns/he09/m_02.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he10.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/he10/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he10/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/he10/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he11.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he11/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he12.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/he12/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he12/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/he12/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he13.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he13/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he14.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he14/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he15.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/he15/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he15/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he16.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he16/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he17.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/he17/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/he17/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he17/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he18.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he18/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he19.ard
+  source:
+  - method: spawnpoint
+    name: b_62
+    source:
+    - name: spawns/he19/b_62.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_63
+    source:
+    - name: spawns/he19/b_63.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/he19/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk00.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/lk00/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lk00/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk01.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/lk01/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lk01/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk02.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/lk02/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/lk02/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lk02/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk03.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lk03/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk04.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/lk04/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lk04/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk05.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/lk05/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/lk05/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/lk05/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lk05/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk06.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/lk06/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lk06/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/lk06/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk07.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lk07/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk08.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lk08/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk09.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/lk09/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lk09/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/lk09/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk10.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lk10/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk11.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lk11/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk12.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lk12/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk13.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lk13/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk14.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/lk14/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lk14/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk15.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/lk15/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lk15/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk16.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lk16/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lm00.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lm00/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lm01.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lm01/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lm02.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/lm02/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/lm02/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lm02/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lm03.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lm03/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lm04.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lm04/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lm05.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lm05/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lm06.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lm06/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lm07.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lm07/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lm08.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lm08/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lm09.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lm09/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lm10.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/lm10/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/mu00.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/mu00/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/mu00/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/mu00/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/mu01.ard
+  source:
+  - method: spawnpoint
+    name: b_42
+    source:
+    - name: spawns/mu01/b_42.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/mu01/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/mu01/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/mu02.ard
+  source:
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: spawns/mu02/b_41.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_45
+    source:
+    - name: spawns/mu02/b_45.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/mu02/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/mu02/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/mu02/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/mu03.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/mu03/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/mu03/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/mu04.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/mu04/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/mu04/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/mu05.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/mu05/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/mu05/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/mu05/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/mu06.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/mu06/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/mu06/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/mu07.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/mu07/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/mu07/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: spawns/mu07/b_99.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/mu07/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/mu07/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/mu07/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/mu08.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/mu08/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/mu08/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/mu08/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/mu08/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/mu08/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/mu09.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/mu09/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/mu09/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/mu10.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/mu10/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/mu10/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/mu10/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/mu11.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/mu11/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/mu11/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/mu12.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/mu12/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/mu12/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/mu12/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/nm00.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/nm00/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: spawns/nm00/b_99.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/nm00/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/nm00/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/nm01.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/nm01/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/nm01/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/nm02.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/nm02/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/nm02/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/nm02/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/nm03.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/nm03/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/nm03/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/nm03/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/nm04.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/nm04/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/nm04/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/nm05.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/nm05/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/nm05/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/nm05/m_01.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_20
+    source:
+    - name: spawns/nm05/r_20.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/nm06.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/nm06/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/nm06/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/nm06/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/nm07.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/nm07/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/nm07/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/nm08.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/nm08/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/nm08/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/nm09.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/nm09/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/nm09/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: s_99
+    source:
+    - name: spawns/nm09/s_99.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/nm10.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/nm10/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/nm10/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/nm10/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/po00.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/po00/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/po00/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/po01.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/po01/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/po01/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/po01/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_20
+    source:
+    - name: spawns/po01/r_20.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_21
+    source:
+    - name: spawns/po01/r_21.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/po02.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/po02/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/po02/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/po03.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/po03/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/po03/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_20
+    source:
+    - name: spawns/po03/r_20.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_21
+    source:
+    - name: spawns/po03/r_21.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/po04.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/po04/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/po04/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_20
+    source:
+    - name: spawns/po04/r_20.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_21
+    source:
+    - name: spawns/po04/r_21.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/po05.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/po05/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/po05/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_20
+    source:
+    - name: spawns/po05/r_20.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_21
+    source:
+    - name: spawns/po05/r_21.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/po06.ard
+  source:
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/po06/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/po07.ard
+  source:
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/po07/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/po08.ard
+  source:
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/po08/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/po09.ard
+  source:
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: spawns/po09/b_99.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/po09/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/po09/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_20
+    source:
+    - name: spawns/po09/r_20.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_21
+    source:
+    - name: spawns/po09/r_21.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tr00.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tr00/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/tr00/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_52
+    source:
+    - name: spawns/tr00/e_52.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_53
+    source:
+    - name: spawns/tr00/e_53.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tr00/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/tr00/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tr01.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/tr01/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tr01/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tr01/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/tr01/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tr02.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/tr02/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tr02/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tr03.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/tr03/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tr03/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tr03/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/tr03/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tr04.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/tr04/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/tr04/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tr04/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tr05.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tr05/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/tr05/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_52
+    source:
+    - name: spawns/tr05/e_52.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tr05/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/tr05/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tr06.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tr06/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tr07.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/tr07/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tr07/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tr08.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tr08/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/tr08/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tr08/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/tr08/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tr09.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: spawns/tr09/b_60.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_61
+    source:
+    - name: spawns/tr09/b_61.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_98
+    source:
+    - name: spawns/tr09/b_98.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: spawns/tr09/b_99.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tr09/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tr10.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tr10/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/tr10/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tr11.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tr11/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt00.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt00/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt01.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt01/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt02.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt02/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt02/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt03.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/tt03/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: spawns/tt03/b_41.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt03/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt03/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt04.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/tt04/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: spawns/tt04/b_41.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_42
+    source:
+    - name: spawns/tt04/b_42.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_43
+    source:
+    - name: spawns/tt04/b_43.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_44
+    source:
+    - name: spawns/tt04/b_44.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_45
+    source:
+    - name: spawns/tt04/b_45.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_50
+    source:
+    - name: spawns/tt04/b_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_51
+    source:
+    - name: spawns/tt04/b_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_52
+    source:
+    - name: spawns/tt04/b_52.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt04/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt04/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt05.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/tt05/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: spawns/tt05/b_41.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_42
+    source:
+    - name: spawns/tt05/b_42.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_43
+    source:
+    - name: spawns/tt05/b_43.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_44
+    source:
+    - name: spawns/tt05/b_44.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt05/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt05/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt06.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/tt06/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: spawns/tt06/b_41.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_42
+    source:
+    - name: spawns/tt06/b_42.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_43
+    source:
+    - name: spawns/tt06/b_43.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt06/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt06/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: r_20
+    source:
+    - name: spawns/tt06/r_20.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt07.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/tt07/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_42
+    source:
+    - name: spawns/tt07/b_42.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_44
+    source:
+    - name: spawns/tt07/b_44.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_45
+    source:
+    - name: spawns/tt07/b_45.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_47
+    source:
+    - name: spawns/tt07/b_47.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_48
+    source:
+    - name: spawns/tt07/b_48.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt07/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt07/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: s_99
+    source:
+    - name: spawns/tt07/s_99.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt08.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/tt08/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt08/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt08/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt09.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt09/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt09/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/tt09/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt10.ard
+  source:
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: spawns/tt10/b_41.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_42
+    source:
+    - name: spawns/tt10/b_42.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt10/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt10/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt11.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt11/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt11/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt12.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/tt12/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt12/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt12/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt13.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt13/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt13/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt14.ard
+  source:
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: spawns/tt14/b_41.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_42
+    source:
+    - name: spawns/tt14/b_42.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: spawns/tt14/b_99.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt14/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt14/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/tt14/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt15.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt15/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt15/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/tt15/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt16.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt16/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt17.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt17/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt17/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt18.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt18/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt18/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt19.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/tt19/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt19/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt19/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt20.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/tt20/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: spawns/tt20/b_80.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt20/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt21.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt21/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt21/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/tt21/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt22.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt22/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt22/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt23.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt23/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt23/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt24.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt24/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt25.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/tt25/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt25/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt25/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/tt25/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt26.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt26/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/tt26/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt27.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt27/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_52
+    source:
+    - name: spawns/tt27/e_52.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt27/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/tt27/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt28.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt28/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt28/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt29.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/tt29/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt29/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt29/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt30.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/tt30/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt30/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt30/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt31.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt31/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt32.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/tt32/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: spawns/tt32/b_41.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt32/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt32/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt33.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt33/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt34.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt34/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt35.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt35/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt36.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/tt36/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt36/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt36/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt37.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt37/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt38.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt38/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt39.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt39/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt40.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/tt40/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: spawns/tt40/b_41.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/tt40/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt40/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt41.ard
+  source:
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: spawns/tt41/b_99.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/tt41/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/wi00.ard
+  source:
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/wi00/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_51
+    source:
+    - name: spawns/wi00/e_51.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_52
+    source:
+    - name: spawns/wi00/e_52.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_53
+    source:
+    - name: spawns/wi00/e_53.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/wi00/m_00.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_01
+    source:
+    - name: spawns/wi00/m_01.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/wi01.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/wi01/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/wi01/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/wi02.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/wi02/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: e_50
+    source:
+    - name: spawns/wi02/e_50.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/wi02/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/wi03.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/wi03/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/wi03/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/wi04.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/wi04/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/wi04/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/wi05.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/wi05/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/wi05/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/wi06.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/wi06/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/wi06/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/wi07.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: spawns/wi07/b_40.spawn
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/wi07/m_00.spawn
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/wi08.ard
+  source:
+  - method: spawnpoint
+    name: m_00
+    source:
+    - name: spawns/wi08/m_00.spawn
+    type: AreaDataSpawn
+description: 'READ THIS FIRST
+
+  Turn Sora into Ice Climbers! Have fun wobbling all the bosses!
+
+  v0.1
+
+  '
+logo: logo.png
+originalAuthor: Thundrio
+title: Sora Climbers

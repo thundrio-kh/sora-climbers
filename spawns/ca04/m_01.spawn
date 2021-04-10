@@ -1,0 +1,91 @@
+- Entities:
+  - &id001
+    Argument1: 0
+    Argument2: 0
+    Command: 0
+    Level: 0
+    Medal: 0
+    ObjectId: 566
+    PositionX: -300
+    PositionY: 0.7428591847419739
+    PositionZ: -393
+    ReactionCommand: 0
+    RotationX: 0
+    RotationY: 2.6179938316345215
+    RotationZ: 0
+    Serial: 29
+    SpawnArgument: 99
+    SpawnDelay: 0
+    SpawnRange: 0
+    SpawnType: 1
+  - *id001
+  EventActivators: []
+  Flag: 0
+  Id: 212
+  ReturnParameters: []
+  Signals: []
+  Teleport:
+    Door: 0
+    Place: 0
+    Unknown: 0
+    World: 0
+  Type: 1
+  Unk20: 0
+  Unk24: 0
+  WalkPath: []
+- Entities:
+  - &id002
+    Argument1: 0
+    Argument2: 0
+    Command: 0
+    Level: 0
+    Medal: 0
+    ObjectId: 566
+    PositionX: -257
+    PositionY: 0
+    PositionZ: 62
+    ReactionCommand: 0
+    RotationX: 0
+    RotationY: 0.3490658402442932
+    RotationZ: 0
+    Serial: 32
+    SpawnArgument: 0
+    SpawnDelay: 0
+    SpawnRange: 0
+    SpawnType: 1
+  - *id002
+  EventActivators: []
+  Flag: 0
+  Id: 256
+  ReturnParameters:
+  - Argument04: 0
+    Argument08: 0
+    Argument0c: 0
+    EntryType: 0
+    Id: 0
+    Rate: 0
+    Type: 0
+  - Argument04: 0
+    Argument08: 0
+    Argument0c: 0
+    EntryType: 0
+    Id: 0
+    Rate: 0
+    Type: 0
+  - Argument04: 0
+    Argument08: 0
+    Argument0c: 0
+    EntryType: 0
+    Id: 0
+    Rate: 0
+    Type: 0
+  Signals: []
+  Teleport:
+    Door: 0
+    Place: 4
+    Unknown: 0
+    World: 0
+  Type: 1
+  Unk20: 0
+  Unk24: 0
+  WalkPath: []

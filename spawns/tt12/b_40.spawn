@@ -1,0 +1,226 @@
+- Entities:
+  - &id001
+    Argument1: 0
+    Argument2: 0
+    Command: 0
+    Level: 0
+    Medal: 0
+    ObjectId: 566
+    PositionX: -48.748809814453125
+    PositionY: -3500
+    PositionZ: -113.2500991821289
+    ReactionCommand: 0
+    RotationX: 0
+    RotationY: 0
+    RotationZ: 0
+    Serial: 9
+    SpawnArgument: 0
+    SpawnDelay: 0
+    SpawnRange: 0
+    SpawnType: 0
+  - Argument1: 0
+    Argument2: 0
+    Command: 0
+    Level: 0
+    Medal: 0
+    ObjectId: 567
+    PositionX: 51.251190185546875
+    PositionY: -3500
+    PositionZ: -13.250129699707031
+    ReactionCommand: 0
+    RotationX: 0
+    RotationY: 0
+    RotationZ: 0
+    Serial: 10
+    SpawnArgument: 0
+    SpawnDelay: 0
+    SpawnRange: 0
+    SpawnType: 0
+  - Argument1: 0
+    Argument2: 0
+    Command: 0
+    Level: 0
+    Medal: 0
+    ObjectId: 568
+    PositionX: -148.74879455566406
+    PositionY: -3500
+    PositionZ: -13.250129699707031
+    ReactionCommand: 0
+    RotationX: 0
+    RotationY: 0
+    RotationZ: 0
+    Serial: 11
+    SpawnArgument: 0
+    SpawnDelay: 0
+    SpawnRange: 0
+    SpawnType: 0
+  - Argument1: 0
+    Argument2: 0
+    Command: 0
+    Level: 0
+    Medal: 0
+    ObjectId: 2104
+    PositionX: 253.3054962158203
+    PositionY: -3500
+    PositionZ: -113.73580169677734
+    ReactionCommand: 0
+    RotationX: 0
+    RotationY: -2.6179938316345215
+    RotationZ: 0
+    Serial: 31
+    SpawnArgument: 0
+    SpawnDelay: 0
+    SpawnRange: 0
+    SpawnType: 0
+  - Argument1: 0
+    Argument2: 0
+    Command: 0
+    Level: 0
+    Medal: 0
+    ObjectId: 2104
+    PositionX: 103.30549621582031
+    PositionY: -3500
+    PositionZ: -813.7357788085938
+    ReactionCommand: 0
+    RotationX: 0
+    RotationY: -2.9452431201934814
+    RotationZ: 0
+    Serial: 32
+    SpawnArgument: 0
+    SpawnDelay: 0
+    SpawnRange: 0
+    SpawnType: 0
+  - Argument1: 0
+    Argument2: 0
+    Command: 0
+    Level: 0
+    Medal: 0
+    ObjectId: 2104
+    PositionX: -446.6944885253906
+    PositionY: -3500
+    PositionZ: -313.7358093261719
+    ReactionCommand: 0
+    RotationX: 0
+    RotationY: 1.3744467496871948
+    RotationZ: 0
+    Serial: 34
+    SpawnArgument: 0
+    SpawnDelay: 0
+    SpawnRange: 0
+    SpawnType: 0
+  - *id001
+  EventActivators: []
+  Flag: 0
+  Id: 125
+  ReturnParameters: []
+  Signals: []
+  Teleport:
+    Door: 0
+    Place: 0
+    Unknown: 0
+    World: 0
+  Type: 1
+  Unk20: 0
+  Unk24: 0
+  WalkPath: []
+- Entities:
+  - Argument1: 0
+    Argument2: 0
+    Command: 0
+    Level: 0
+    Medal: 0
+    ObjectId: 1822
+    PositionX: 103.30560302734375
+    PositionY: -3500
+    PositionZ: -1313.7359619140625
+    ReactionCommand: 0
+    RotationX: 0
+    RotationY: 3.1415927410125732
+    RotationZ: 0
+    Serial: 12
+    SpawnArgument: 0
+    SpawnDelay: 0
+    SpawnRange: 0
+    SpawnType: 0
+  EventActivators: []
+  Flag: 0
+  Id: 137
+  ReturnParameters: []
+  Signals: []
+  Teleport:
+    Door: 0
+    Place: 0
+    Unknown: 0
+    World: 0
+  Type: 1
+  Unk20: 0
+  Unk24: 0
+  WalkPath:
+  - Flag: 1
+    Id: 0
+    Positions:
+    - X: -372.0862121582031
+      Y: -3499.235107421875
+      Z: 240.54640197753906
+    - X: -857.6954956054688
+      Y: -3500
+      Z: -348.31939697265625
+    - X: -707.443603515625
+      Y: -3501.990234375
+      Z: -991.80859375
+    - X: 178.77549743652344
+      Y: -3500
+      Z: -1171.986572265625
+    - X: 660.1068115234375
+      Y: -3499.999755859375
+      Z: -601.2498779296875
+    - X: 652.4417724609375
+      Y: -3499.999755859375
+      Z: 222.91604614257812
+    Serial: 47
+  - Flag: 2
+    Id: 1
+    Positions:
+    - X: -716.7711181640625
+      Y: -3500
+      Z: -1008.114013671875
+    - X: -219.88890075683594
+      Y: -3510
+      Z: 334.8630065917969
+    - X: 713.02587890625
+      Y: -3510
+      Z: -464.27850341796875
+    - X: -341.85260009765625
+      Y: -3509.999755859375
+      Z: -1148.23583984375
+    Serial: 48
+  - Flag: 1
+    Id: 5
+    Positions:
+    - X: -709.3704223632812
+      Y: -3501.990966796875
+      Z: -992.140625
+    - X: 663.0855712890625
+      Y: -3510.000244140625
+      Z: 248.22439575195312
+    Serial: 50
+  - Flag: 1
+    Id: 6
+    Positions:
+    - X: 655.8082275390625
+      Y: -3500
+      Z: -614.6094970703125
+    - X: -880.3157958984375
+      Y: -3510
+      Z: -204.9774932861328
+    Serial: 51
+  - Flag: 1
+    Id: 7
+    Positions:
+    - X: -362.7267150878906
+      Y: -3499.59912109375
+      Z: 239.38720703125
+    - X: 260.1807861328125
+      Y: -3509.86474609375
+      Z: -1212.770751953125
+    Serial: 49
